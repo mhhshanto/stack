@@ -4,15 +4,20 @@
 // console.log(a>b);
 // var a = 'waioueytp8795'
 // console.log(a.toUpperCase());
-var n = "this isff"
+// var n = "this isff"
 
-var length = 0
-while(true){
-  if(n.charAt(length) == ''){
-    break
-  }
-  else{
-    length++
-  }
-}
-console.log(length);
+// var length = 0
+// while(true){
+//   if(n.charAt(length) == ''){
+//     break
+//   }
+//   else{
+//     length++
+//   }
+// }
+// console.log(length);
+
+var a = [
+5, "shanto"
+]
+console.log(a[1]);
