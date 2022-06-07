@@ -17,7 +17,8 @@
 // }
 // console.log(length);
 
-var a = [
-5, "shanto"
-]
-console.log(a[1]);
+// var a = [
+// 5, "shanto"
+// ]
+// a[2] = 6
+// console.log(a[2]);
