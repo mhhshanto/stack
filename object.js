@@ -4,4 +4,6 @@ var obj = {
   home: "mymensingh"
 }
 obj.home =10
-console.log(obj.home);
+delete obj.name
+console.log(obj);
+console.log(JSON.stringify(obj));
