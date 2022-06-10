@@ -1,6 +1,8 @@
-function shanto (){
-  console.log("shanto testing");
+function shanto(a,b){
+resust = a+b;
+console.log(resust);
 }
-for (let i = 1; i<=10; i++){
-  shanto()
-}
+shanto(10,20)
+shanto(100,200)
+shanto(2838536,3)
+hi
