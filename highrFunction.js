@@ -13,4 +13,4 @@ function multiply(n1, n2) {
 }
 calculate(sum, 0, [1, 2, 4]);      // => 7
 calculate(multiply, 1, [1, 2, 4]); // => 8
-shn
+sh
